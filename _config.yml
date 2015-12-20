@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bwhite82.github.io
+title: byteFever
+email: bwhite82@gmail.com
+author: Brandon
+description: Nerd realm
+paginate: 3
+google_analytics: 
